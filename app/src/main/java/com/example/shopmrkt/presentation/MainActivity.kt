@@ -1,8 +1,8 @@
-package com.example.shopmrkt
+package com.example.shopmrkt.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.shopmrkt.ui.main.MainFragment
+import com.example.shopmrkt.R
 
 class MainActivity : AppCompatActivity() {
 

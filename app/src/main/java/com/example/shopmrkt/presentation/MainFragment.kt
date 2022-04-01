@@ -1,4 +1,4 @@
-package com.example.shopmrkt.ui.main
+package com.example.shopmrkt.presentation
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -34,7 +34,8 @@ class MainFragment : Fragment() {
 //        fun onCreated(){
 //            activity?.lifecycle?.removeObserver(this)
 //        }
-//
+// Answer from StOwFl about deprecated some onActCreated
+
 //        override fun onCreate(context: Context) {
 //            super.onCreate(context)
 //            activity?.lifecycle?.addObserver(this)
